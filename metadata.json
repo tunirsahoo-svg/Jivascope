@@ -1,0 +1,7 @@
+{
+  "name": "Copy of CardioQuant PCG Analyzer",
+  "description": "A regulatory-compliant clinical decision support tool for analyzing Phonocardiography (PCG) signals to detect structural heart murmurs using simulated AI analysis.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
